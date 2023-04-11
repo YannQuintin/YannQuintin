@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YannQuintin
-- 👀 I’m interested in the MERN stack
-- 🌱 I’m currently learning - AGAIN - JavaScript basics and MERN
-- 💞️ I’m looking to collaborate on a social app to help cyclist of the same place meet and share their passion.
+- 👀 I’m interested in the React / AI and how to apply those to simplify people's life.
+- 🌱 I’m currently learning - AGAIN - JavaScript basics, MERN and recently dabbling into AI.
+- 💞️ I’m looking to collaborate on a social apps.
 - 📫 How to reach me ...
 
 <!---
